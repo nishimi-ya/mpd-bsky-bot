@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@atproto/api": "^0.6.20",
+    "cron": "^3.1.8",
+    "dotenv": "^16.4.5",
+    "mpd-api": "^1.1.2",
+    "node-fetch": "^3.3.2",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^22.9.0"
+  }
+}
